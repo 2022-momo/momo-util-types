@@ -1,4 +1,10 @@
+# dir
 node_modules
 src
+__test__
+
+# files
 .gitignore
+jest.config.js
 tsconfig.json
+yarn.lock
